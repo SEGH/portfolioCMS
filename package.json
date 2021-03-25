@@ -2,7 +2,7 @@
   "name": "segh",
   "private": true,
   "version": "1.0.0",
-  "description": "",
+  "description": "Content Management for Portfolio",
   "main": "package.json",
   "author": "Susan Holland <segh@fastmail.com>",
   "license": "UNLICENSED",
